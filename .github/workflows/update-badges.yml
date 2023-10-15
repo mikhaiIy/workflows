@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: <mikhail-yassin> # optional, but default will use the same from github
+          CREDLY_USER: Mikhail Yassin # optional, but default will use the same from github
